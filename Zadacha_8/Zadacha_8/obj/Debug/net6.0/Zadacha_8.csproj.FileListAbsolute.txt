@@ -1,0 +1,15 @@
+C:\Users\USER1\Desktop\ПРОГРАММИРОВАНИЕ БЫСТРЫЙ СТАРТ\Семинары\3_Введение в C#\Seminar_1\Homework\Zadacha_8\Zadacha_8\obj\Debug\net6.0\Zadacha_8.csproj.AssemblyReference.cache
+C:\Users\USER1\Desktop\ПРОГРАММИРОВАНИЕ БЫСТРЫЙ СТАРТ\Семинары\3_Введение в C#\Seminar_1\Homework\Zadacha_8\Zadacha_8\obj\Debug\net6.0\Zadacha_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER1\Desktop\ПРОГРАММИРОВАНИЕ БЫСТРЫЙ СТАРТ\Семинары\3_Введение в C#\Seminar_1\Homework\Zadacha_8\Zadacha_8\obj\Debug\net6.0\Zadacha_8.AssemblyInfoInputs.cache
+C:\Users\USER1\Desktop\ПРОГРАММИРОВАНИЕ БЫСТРЫЙ СТАРТ\Семинары\3_Введение в C#\Seminar_1\Homework\Zadacha_8\Zadacha_8\obj\Debug\net6.0\Zadacha_8.AssemblyInfo.cs
+C:\Users\USER1\Desktop\ПРОГРАММИРОВАНИЕ БЫСТРЫЙ СТАРТ\Семинары\3_Введение в C#\Seminar_1\Homework\Zadacha_8\Zadacha_8\obj\Debug\net6.0\Zadacha_8.csproj.CoreCompileInputs.cache
+C:\Users\USER1\Desktop\ПРОГРАММИРОВАНИЕ БЫСТРЫЙ СТАРТ\Семинары\3_Введение в C#\Seminar_1\Homework\Zadacha_8\Zadacha_8\bin\Debug\net6.0\Zadacha_8.exe
+C:\Users\USER1\Desktop\ПРОГРАММИРОВАНИЕ БЫСТРЫЙ СТАРТ\Семинары\3_Введение в C#\Seminar_1\Homework\Zadacha_8\Zadacha_8\bin\Debug\net6.0\Zadacha_8.deps.json
+C:\Users\USER1\Desktop\ПРОГРАММИРОВАНИЕ БЫСТРЫЙ СТАРТ\Семинары\3_Введение в C#\Seminar_1\Homework\Zadacha_8\Zadacha_8\bin\Debug\net6.0\Zadacha_8.runtimeconfig.json
+C:\Users\USER1\Desktop\ПРОГРАММИРОВАНИЕ БЫСТРЫЙ СТАРТ\Семинары\3_Введение в C#\Seminar_1\Homework\Zadacha_8\Zadacha_8\bin\Debug\net6.0\Zadacha_8.dll
+C:\Users\USER1\Desktop\ПРОГРАММИРОВАНИЕ БЫСТРЫЙ СТАРТ\Семинары\3_Введение в C#\Seminar_1\Homework\Zadacha_8\Zadacha_8\bin\Debug\net6.0\Zadacha_8.pdb
+C:\Users\USER1\Desktop\ПРОГРАММИРОВАНИЕ БЫСТРЫЙ СТАРТ\Семинары\3_Введение в C#\Seminar_1\Homework\Zadacha_8\Zadacha_8\obj\Debug\net6.0\Zadacha_8.dll
+C:\Users\USER1\Desktop\ПРОГРАММИРОВАНИЕ БЫСТРЫЙ СТАРТ\Семинары\3_Введение в C#\Seminar_1\Homework\Zadacha_8\Zadacha_8\obj\Debug\net6.0\refint\Zadacha_8.dll
+C:\Users\USER1\Desktop\ПРОГРАММИРОВАНИЕ БЫСТРЫЙ СТАРТ\Семинары\3_Введение в C#\Seminar_1\Homework\Zadacha_8\Zadacha_8\obj\Debug\net6.0\Zadacha_8.pdb
+C:\Users\USER1\Desktop\ПРОГРАММИРОВАНИЕ БЫСТРЫЙ СТАРТ\Семинары\3_Введение в C#\Seminar_1\Homework\Zadacha_8\Zadacha_8\obj\Debug\net6.0\Zadacha_8.genruntimeconfig.cache
+C:\Users\USER1\Desktop\ПРОГРАММИРОВАНИЕ БЫСТРЫЙ СТАРТ\Семинары\3_Введение в C#\Seminar_1\Homework\Zadacha_8\Zadacha_8\obj\Debug\net6.0\ref\Zadacha_8.dll
